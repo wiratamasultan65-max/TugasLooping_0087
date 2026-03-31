@@ -18,3 +18,5 @@ bool cekPrima(int n) {
 // Function untuk mengecek apakah angka termasuk Deret Fibonacci
 bool cekFibonacci(int n) {
     if (n < 0) return false;
+    int a = 0;
+    int b = 1;
