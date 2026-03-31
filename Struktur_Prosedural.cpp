@@ -44,3 +44,4 @@ void tampilkanMenu() {
     cout << "Pilih menu (0-2): ";
     cin >> pilihan;
 }
+// Prosedur untuk menampilkan hasil Prima
