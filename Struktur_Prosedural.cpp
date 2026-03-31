@@ -33,3 +33,4 @@ void inputAngka() {
     cout << "Masukkan angka yang ingin dicek: ";
     cin >> angka;
 }
+// Prosedur untuk menampilkan menu pilihan
