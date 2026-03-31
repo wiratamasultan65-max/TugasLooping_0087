@@ -26,3 +26,5 @@ bool cekFibonacci(int n) {
         a = b;
         b = temp;
     }
+    return (a == n);
+}
