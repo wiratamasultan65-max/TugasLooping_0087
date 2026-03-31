@@ -54,3 +54,10 @@ void tampilkanHasilPrima() {
 }
 
 // Prosedur untuk menampilkan hasil Fibonacci
+void tampilkanHasilFibonacci() {
+    if (cekFibonacci(angka)) {
+        cout << "=> " << angka << " termasuk dalam DERET FIBONACCI." << endl;
+    } else {
+        cout << "=> " << angka << " TIDAK termasuk dalam deret Fibonacci." << endl;
+    }
+}
