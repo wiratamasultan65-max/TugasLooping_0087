@@ -34,3 +34,13 @@ void inputAngka() {
     cin >> angka;
 }
 // Prosedur untuk menampilkan menu pilihan
+void tampilkanMenu() {
+    cout << "\n===============================" << endl;
+    cout << "      MENU PENGECEKAN ANGKA    " << endl;
+    cout << "===============================" << endl;
+    cout << "1. Cek Bilangan Prima" << endl;
+    cout << "2. Cek Bilangan Fibonacci" << endl;
+    cout << "0. Keluar" << endl;
+    cout << "Pilih menu (0-2): ";
+    cin >> pilihan;
+}
