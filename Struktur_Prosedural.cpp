@@ -52,3 +52,5 @@ void tampilkanHasilPrima() {
         cout << "=> " << angka << " BUKAN bilangan prima." << endl;
     }
 }
+
+// Prosedur untuk menampilkan hasil Fibonacci
