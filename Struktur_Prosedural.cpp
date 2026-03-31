@@ -45,3 +45,10 @@ void tampilkanMenu() {
     cin >> pilihan;
 }
 // Prosedur untuk menampilkan hasil Prima
+void tampilkanHasilPrima() {
+    if (cekPrima(angka)) {
+        cout << "=> " << angka << " adalah BILANGAN PRIMA." << endl;
+    } else {
+        cout << "=> " << angka << " BUKAN bilangan prima." << endl;
+    }
+}
