@@ -61,3 +61,6 @@ void tampilkanHasilFibonacci() {
         cout << "=> " << angka << " TIDAK termasuk dalam deret Fibonacci." << endl;
     }
 }
+// Fungsi utama
+int main() {
+// Menu utama menggunakan while loop agar terus berjalan
