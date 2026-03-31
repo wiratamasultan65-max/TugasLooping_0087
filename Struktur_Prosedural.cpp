@@ -28,3 +28,4 @@ bool cekFibonacci(int n) {
     }
     return (a == n);
 }
+// Prosedur untuk menerima input angka dari pengguna
